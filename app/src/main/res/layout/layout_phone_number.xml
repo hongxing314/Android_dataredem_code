@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="coupon"
+            type="com.billaway.lyfepoints.data.models.Coupon" />
+    </data>
+
+    <com.billaway.lyfepoints.phonenumber.PhoneNumberView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/phoneNumberView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <com.billaway.lyfepoints.views.ContentStateView
+            android:id="@+id/contentState"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <android.support.v4.widget.NestedScrollView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="16dp"
+                    android:paddingTop="72dp">
+
+                    <ImageView
+                        android:id="@+id/ivLogo"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitCenter"
+                        android:layout_centerHorizontal="true"
+                        android:background="@color/colorAccent"
+                        app:roundedCornerImage='@{coupon.brandImage}' />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/ivLogo"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="16dp"
+                        android:text="@{coupon.brandName}"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                        tools:text="Barns and nobel booksellers" />
+                </RelativeLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/mobile_number"
+                        android:inputType="phone"
+                        android:textSize="18sp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/security_pin_number"
+                        android:inputType="number"
+                        android:textSize="18sp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <Button
+                    android:id="@+id/btnNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|top"
+                    android:layout_marginBottom="24dp"
+                    android:layout_marginTop="64dp"
+                    android:background="@drawable/btn_round_corner_ripple"
+                    android:paddingLeft="24dp"
+                    android:paddingRight="24dp"
+                    android:text="@string/enter"
+                    android:textAllCaps="true" />
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </com.billaway.lyfepoints.phonenumber.PhoneNumberView>
+</layout>

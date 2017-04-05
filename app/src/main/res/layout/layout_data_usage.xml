@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools">
+
+    <com.billaway.lyfepoints.main.home.ChartView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical"
+            android:background="@drawable/data_redemption_app_bg_final_1080x1920_v2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                app:srcCompat="@drawable/back_arrow_1"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/usage_back"
+                android:onClick="OnClick"/>
+
+            <TextView
+                android:text="@string/sponsorship_default_1"
+                android:textColor="@color/textColorPrimary"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_below="@+id/usage_back"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="75dp"
+                android:id="@+id/statusText1" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/statusText1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:visibility="invisible"
+                android:scaleY="10"
+                android:progressBackgroundTint="#000000"
+                android:progressTint="@color/progressTint"
+                android:id="@+id/usageBar"
+                android:max="100"
+                android:progress="60" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:text=""
+                android:textColor="@color/textColorPrimary"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="50dp"
+                android:layout_alignLeft="@+id/usageBar"
+                android:layout_below="@+id/statusText1"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dataUsed"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:text=""
+                android:textColor="@color/textColorPrimary"
+                android:gravity="center_vertical"
+                android:layout_marginRight="25dp"
+                android:layout_alignRight="@+id/usageBar"
+                android:layout_below="@+id/statusText1"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dataTotal"/>
+
+
+            <TextView
+                android:text="@string/sponsorship_default_2"
+                android:textAlignment="center"
+                android:textColor="@color/textColorPrimary"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_below="@+id/usageBar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:id="@+id/statusText2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="10dp"
+                android:layout_above="@+id/earn">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:visibility="invisible"
+                    android:text="Your data expires on:"
+                    android:textStyle="italic"
+                    android:textSize="14sp"
+                    android:textColor="@color/textColorPrimary"
+                    android:ems="10"
+                    android:id="@+id/valid_to"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:textColor="@color/progressTint"
+                    android:visibility="invisible"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_width="150dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/button_normal"
+                    android:inputType="date"
+                    android:ems="10"
+                    android:id="@+id/timeText"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/progressTint"/>
+            </LinearLayout>
+
+            <Button
+                android:text="Earn More Data"
+                android:textColor="@color/textColorPrimary"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:background="@drawable/button_normal"
+                android:id="@+id/earn"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:onClick="OnClick"/>
+
+
+        </RelativeLayout>
+
+    </com.billaway.lyfepoints.main.home.ChartView>
+</layout>

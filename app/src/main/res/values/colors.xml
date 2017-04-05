@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#479FFF</color>
+    <color name="home_background">#d5ecc6</color>
+    <color name="textColorDark">#212121</color>
+    <color name="textColorLight">#757575</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinActive">@color/colorPrimary</color>
+    <color name="pinFilled">@android:color/white</color>
+    <color name="pinInactive">@android:color/white</color>
+    <color name="pinError">@color/colorAccent</color>
+    <color name="progressTint">#228B22</color>
+    <color name="textColorPrimary">#FFFF</color>
+    <color name="textColorAccent">#00AAFF</color>
+    <color name="windowBackground">#303F9F</color>
+    <color name="navigationBarColor">#0000</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>United States (+1)</item>
+        <item>United Kingdom (+44)</item>
+    </string-array>
+
+    <string-array name="carriers_array">
+        <item>AT&amp;T</item>
+    </string-array>
+</resources>

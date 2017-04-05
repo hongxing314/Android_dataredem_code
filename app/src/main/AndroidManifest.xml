@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.billaway.lyfepoints">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application xmlns:tools="http://schemas.android.com/tools"
+        tools:replace="android:icon"
+        android:name=".LyfePointsApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/data_redemption_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Launcher">
+        <activity android:name=".CreateAccountActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".couponcode.CouponCodeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".views.ReturnActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".phonenumber.PhoneNumberActivity"
+            android:theme="@style/AppTheme.Dark" />
+        <activity android:name=".explanation.ExplanationActivity"></activity>
+        <activity android:name=".transaction.TransactionActivity"
+            android:theme="@style/AppTheme"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/data_redemption_app_bg_final_1080x1920_v2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/menu_drop_down_background"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/exit" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        app:srcCompat="@drawable/exit_button"
+        android:id="@+id/return_home"
+        android:onClick="OnClick"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/exit"
+        android:layout_alignBottom="@+id/exit"
+        android:orientation="vertical">
+
+        <Button
+            android:text="History"
+            android:textColor="@color/textColorPrimary"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/history"
+            android:layout_weight="1"/>
+
+        <Button
+            android:text="Account Info"
+            android:textColor="@color/textColorPrimary"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/account"
+            android:layout_weight="1"/>
+
+        <Button
+            android:text="Terms and conditions"
+            android:textColor="@color/textColorPrimary"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/terms"
+            android:layout_weight="1"/>
+
+        <!--<Button-->
+            <!--android:text="Share"-->
+            <!--android:textColor="@color/textColorPrimary"-->
+            <!--android:background="@null"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/share"-->
+            <!--android:layout_weight="1"/>-->
+
+        <Button
+            android:text="faqs"
+            android:textColor="@color/textColorPrimary"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/faqs"
+            android:layout_weight="1"/>
+
+        <Button
+            android:text="contact us"
+            android:textColor="@color/textColorPrimary"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/contact"
+            android:layout_weight="1"/>
+
+        <!--<Button-->
+            <!--android:text="mobile data agreement"-->
+            <!--android:textColor="@color/textColorPrimary"-->
+            <!--android:background="@null"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/agreement"-->
+            <!--android:layout_weight="1"/>-->
+
+        <!--<Button-->
+            <!--android:text="gift your data"-->
+            <!--android:textColor="@color/textColorPrimary"-->
+            <!--android:background="@null"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/gift"-->
+            <!--android:layout_weight="1"/>-->
+
+
+    </LinearLayout>
+
+</RelativeLayout>

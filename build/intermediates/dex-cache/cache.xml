@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.github.Triggertrap/SeekArc/v1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="667c7c266ee94f433de491ca8fd5a2090d152ca5">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.github.Triggertrap-SeekArc-v1.1_99e1d64288057f474c327359986929984a99d5f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/logging-interceptor-3.5.0_9d7d17c8c52ad04ae87900541d10ecc9a41dcc60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_f5a9b076bf05933452262e583c54dffd65f86af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_c6d036e026e192a0bda2b4f41528bd3416566059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.scottyab/aes-crypto/0.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6189e96ce5fefaab0930a8bfa415595e982477ea">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.scottyab-aes-crypto-0.0.4_00d2f82f62df8ac09f35a8d8af99ddf1b9ca6318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/internal_impl-25.0.0_43c0ef68a1f4b9333c94bddd96857586a0902563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_d63c72d029ebd647be88ea79c1dad704209e7ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-design-25.0.0_a852ee5cadc8ce9c3e0baefc2d0faf9929e89991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/Android/controlsdk/unspecified/jars/libs/click2sdx-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9b47812aa5b58c0e606c8547fbef772b4099c8b3">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/8/click2sdx-sdk_f0b3247aca8b30122eff129b0c7ec774c1b5e76c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.50/be504b4901d75cbe129a178f5830e6c358ec214c/bcprov-jdk15on-1.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/bcprov-jdk15on-1.50_e75d07cd832f3cc9370a44f31ef23824d02ff1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/internal_impl-25.0.0_6db98a799bcbccb7e8e5830668214bac67f4f42a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_3521c9ac972a5f3ce207625af4e51793572ccabe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_232bf71eb962aa9ccc9fda5837c1f4d2a1b7bca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/incremental-classes/internal/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="069fb905d49a4e9b571298960b4c1d9a74566bf3">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/instant-run-bootstrap_a510de4bcf0ba3d2721e6c9cc6d079adc860585b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/reactive-streams-1.0.0_4f1a4b32a99c55d3ef883b76518e767a717e77cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_c05bf4c7ae1d865eed954c615f902cba6073a426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/okhttp-3.5.0_d5b5e72fa81ce3b137fe6a5074b01a344cba2fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/junit-4.12_752523e1591a2c17500ec6612d86245bf4c6983b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_51a23f8cbbbb27126d34b42f49556eb24ed1d893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_b0d7b1cd42b21188e483bfc1e6e548746429d827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.squareup.sqldelight/runtime/0.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f56d221619c464cf2911051991d7d442cd96995">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.squareup.sqldelight-runtime-0.5.1_7351277bbb7f8a1ce80768ac0f9df7734a477d96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_5b23d80b17dad82a08e2578279c962ca1dc4654f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/okio-1.11.0_328ba32a9783dfc463cf35786fd5835aded7ec71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.databinding-library-1.2.1_116547392507a4c997496ee86c48cafdce03960e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/hamcrest-core-1.3_9b351bab637a817926137a813a72ac78aa473b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/internal_impl-25.0.0_8aec91d6941b870793cd5e4ccc992f8fc27c10ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-compat-25.0.0_3275f291332e624b04a1d78f2c0eb3ae999e59f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/javax.inject-1_81f63147293c80992186865712de6648b741fa96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-multidex-1.0.1_af758bea7e6561a03181fe963187fbcacf0ff832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/internal_impl-25.0.0_16b2fa7be5c48bb2e866d2e628d9d74d691b22a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit-mock/2.1.0/ae1dbbe1b9d17afb1d93b1eb3fd23dfc07ff6be4/retrofit-mock-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae1dbbe1b9d17afb1d93b1eb3fd23dfc07ff6be4">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/retrofit-mock-2.1.0_75874a3e437911b0a72cc04d47c518d925ae65f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxrelay2/rxrelay/2.0.0/2ed3d43181bb62afb00f675d17f3e6c2ffadd889/rxrelay-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2ed3d43181bb62afb00f675d17f3e6c2ffadd889">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/rxrelay-2.0.0_b5215c8524a72ef2502463c2a2f1967433eed626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_46442b9c116d99bd0d4284c1ad014f6481516024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-v4-25.0.0_08bc88d106f82bd2d0853964b1971544a2df795e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/incremental-runtime-classes/internal/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="28c19b1574758be5d7aaea6ff4442b3cc66f7965">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/instant-run_e8869185639a6cf3d782e6b6a4b092e137033ff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.squareup.flow/flow/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="35a98abcbfe4bc4b9d4a821d09ca909fba589148">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.squareup.flow-flow-1.0.0-alpha2_334838cb8e0110e76ff29dde7e9f798307ca2272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_59ab87f3e4180fd672691b39cc7f6eac6127874c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_f7d030881c3a19d2e9d537feb410c7ebffcee4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0/ff93baa2e2e6ca507fc6ec731f61751dd0d865e7/MPAndroidChart-v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff93baa2e2e6ca507fc6ec731f61751dd0d865e7">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/MPAndroidChart-v3.0.0_13ddc81083821a0d84ebd8f3beae896b72c05f9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/okhttp-2.5.0_1657d591c5c00c563fa364b0e877b0e31b379785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe62007108762949b5f39641d82b9fa73f5827a1">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/net.zetetic-android-database-sqlcipher-3.5.3_97e558580e2465599924c7d6c36476f44e460ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.scottyab/secure-preferences-lib/0.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e171feee9cd68762880f92502e3f900d58a378ff">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.scottyab-secure-preferences-lib-0.1.4_5c01a6c663d66985ca41d8bcd188e718ba2044ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_afd5ceaa1e5a7d0889b935a91821d9d3a9358b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/gson-2.8.0_f593781b977b708d00b4c583cf29ada012968c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/dagger-2.8_15010d300211cb72926c4df2b0eb1597b4941c92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.cocosw-bottomsheet-1.3.0_c504c1e3cc6c516979f29f53d8171c356950c387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_09eb42da9f80ced4887bdac402497a37bda2e4b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-transition-25.0.0_01988d2b99fdf434bb01b4be8f6c66cbf81ac998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_75741c09878fb16947a000d3890fce4b7dc8ab76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/picasso-2.5.2_9499bc38c172538bae06bd65c9f455636cdde92a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/internal_impl-25.0.0_b34ba30a99959fe5e727d18895b85a3d20b499ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/rxjava-2.0.1_a782628186f4c2d38cb1e902fb1ac993db40febf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/exploded-aar/com.android.support/percent/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c796c6602e5fa48f90a81c8ab3b3a21a205d1853">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/com.android.support-percent-25.0.0_0f2d825438c494cac9b0cc5a72875a4005835635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/3.5.0/b367a062746513788ba7b5feb394db343ba66d52/mockwebserver-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b367a062746513788ba7b5feb394db343ba66d52">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/mockwebserver-3.5.0_2b805b4a579fbc625ebc4ce474629bf629928f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value/1.3/4961194f62915eb45e21940537d60ac53912c57d/auto-value-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4961194f62915eb45e21940537d60ac53912c57d">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/auto-value-1.3_497689783339231fb3448a33f48a415cdcf872b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/Eclipse/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/support-annotations-25.0.0_d564842767567d7229f647f4649c841203dedf1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/mac/Downloads/mdoApp-master/Android/app/build/intermediates/transforms/dex/internal/debug/folders/1000/10/retrofit-2.1.0_aded4d503be48ff9a58d8ef924b75bc3b358129b/classes.dex" />
+    </item>
+
+</items>

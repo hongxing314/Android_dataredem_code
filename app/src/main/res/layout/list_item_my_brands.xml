@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.billaway.lyfepoints.main.mybrands.BrandListItemViewModel" />
+    </data>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:background="?android:attr/selectableItemBackground"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+        <ImageView
+            android:id="@+id/ivBranIcon"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:layout_marginRight="8dp"
+            android:src="@drawable/logo_laucher"
+            app:roundedCornerImage="@{item.icon}" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ivBranIcon"
+            android:paddingBottom="8dp"
+            android:text="@{item.title}"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvTitle"
+            android:layout_toRightOf="@id/ivBranIcon"
+            android:text="@{item.redeems}" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_chevron_right_black_24dp" />
+    </RelativeLayout>
+</layout>

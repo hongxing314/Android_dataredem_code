@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuActionHome"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/menuActionEnterCouponCode"
+            android:icon="@drawable/ic_lock_black_24dp"
+            android:title="@string/enter_coupon_code" />
+        <item
+            android:id="@+id/menuActionMyBrands"
+            android:icon="@drawable/ic_list_black_24dp"
+            android:title="@string/my_brands" />
+        <item
+            android:id="@+id/menuActionRedeem"
+            android:icon="@drawable/ic_reedem"
+            android:title="@string/redeem" />
+    </group>
+    <group android:id="@+id/menu_group_secondary">
+        <item
+            android:id="@+id/menuActionAboutUs"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about_us" />
+        <item
+            android:id="@+id/menuActionsHelpAndFeedback"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/help_and_feedback" />
+    </group>
+
+</menu>

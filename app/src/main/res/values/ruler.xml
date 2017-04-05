@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ruler_current_stroke_width">2dp</dimen>
+    <dimen name="ruler_text_size">12sp</dimen>
+    <dimen name="ruler_line_small">4dp</dimen>
+    <dimen name="ruler_line_large">28dp</dimen>
+    <dimen name="ruler_text_start_point">100dp</dimen>
+</resources>
